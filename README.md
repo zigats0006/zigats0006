@@ -19,4 +19,5 @@ Git • GitHub • Markdown • Web3 • Blockchain
 
 ## 📊 30 Days Challenge
 
-Day 1  🚀
+Day 1 ✅
+Day 2 🚀
